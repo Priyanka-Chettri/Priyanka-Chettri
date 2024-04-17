@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Springboot<br>🤝 I’m looking for help with Web Dev<br>🌱 I’m currently learning Javascript<br>💬 Ask me about Backend
+🔭 I’m currently working on Springboot<br>🤝 I’m looking for help with Web Dev<br>🌱 I’m currently learning Javascript<br>💬 Ask me about Backend and Problem Solving
 
 
 ## 🌐 Socials:
