@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pryancawithan_i" target="blank"><img src="https://img.shields.io/twitter/follow/pryancawithan_i?logo=twitter&style=for-the-badge" alt="pryancawithan_i" /></a> </p>
 
-- 🔭 I’m currently working on [Springboot](https://github.com/roktim32/SnapScript)
+- 🔭 I’m currently working on **Springboot**
 
 - 🌱 I’m currently learning **Javascript and React**
 
