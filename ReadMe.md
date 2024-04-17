@@ -9,6 +9,8 @@
 
 - 📝 I write articles on [https://dev.to/priyankachettri](https://dev.to/priyankachettri)
 
+- 🖊️ Also check [hashnode](https://priyankachettri.hashnode.dev/)
+
 - 💬 Ask me about **Dart, Flutter, Backend and Problem Solving**
 
 - 📫 How to reach me **priyankachettri85@gmail.com**
