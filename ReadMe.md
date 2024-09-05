@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Springboot**
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning **React**
 
 - 📝 I write articles on [https://dev.to/priyankachettri](https://dev.to/priyankachettri)
 
