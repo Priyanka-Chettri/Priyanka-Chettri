@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/pryancawithan_i" target="blank"><img src="https://img.shields.io/twitter/follow/pryancawithan_i?logo=twitter&style=for-the-badge" alt="pryancawithan_i" /></a> </p>
 
-- 🔭 I’m currently working on **Springboot**
+- 🔭 I’m currently working on **Springboot and ReactJs**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ReactJs**
 
 - 📝 I write articles on [https://dev.to/priyankachettri](https://dev.to/priyankachettri)
 
 - 🖊️ Also check [hashnode](https://priyankachettri.hashnode.dev/)
 
-- Check out me Portfolio [Me](https://priyanka--portfolio.vercel.app/)
+- Check out my Portfolio [Me](https://priyanka--portfolio.vercel.app/)
 
-- 💬 Ask me about **Dart, Flutter, Backend and Problem Solving**
+- 💬 Ask me about **Frontend, Backend and Problem Solving**
 
 - 📫 How to reach me **priyankachettri85@gmail.com**
 
