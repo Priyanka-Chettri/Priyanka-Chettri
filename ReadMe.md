@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ReactJs**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ExpressJs**
 
 - 📝 I write articles on [https://dev.to/priyankachettri](https://dev.to/priyankachettri)
 
