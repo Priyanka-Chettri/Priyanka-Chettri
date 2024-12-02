@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ReactJs & Tailwind CSS**
 
-- 🌱 I’m currently learning **ExpressJs**
+- 🌱 I’m currently learning **Typescript with NextJs**
 
 - 📝 I write articles on [https://dev.to/priyankachettri](https://dev.to/priyankachettri)
 
